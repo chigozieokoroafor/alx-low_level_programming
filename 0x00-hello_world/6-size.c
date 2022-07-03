@@ -7,7 +7,7 @@
 */
 int main(void)
 {
-char characteri;
+char character;
 int integer;
 float floatnumbers;
 long int lg_int;
