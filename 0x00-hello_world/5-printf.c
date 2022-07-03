@@ -1,11 +1,12 @@
 #include <stdio.h>
-/*
- * main - Entry point
+/**
+ * main - this is the starting point
+ * Return - value for succes (0)
  */
 int main(void)
 {
 	char str[] = "with proper grammar, but the outcome is a piece of art, ";
 
-	printf("%s",str);
+	printf("%s", str);
 	return (0);
 }
