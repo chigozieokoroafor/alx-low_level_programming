@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
  *main - this is the starting point for our code
  *Return: 0 for success
  *
