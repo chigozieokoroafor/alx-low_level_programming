@@ -19,8 +19,7 @@ int main(void)
 			putchar(ch);
 		}
 		ch++;
-	}
-	while (ch <= 'z');
+	} while (ch <= 'z');
 	putchar('\n');
 	getchar();
 	return (0);
